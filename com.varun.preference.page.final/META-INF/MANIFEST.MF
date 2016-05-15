@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Final
+Bundle-SymbolicName: com.varun.preference.page.final;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: VARUN
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-Activator: com.varun.preference.main.Activator
